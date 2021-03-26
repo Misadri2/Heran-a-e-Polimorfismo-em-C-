@@ -1,0 +1,16 @@
+C:\Users\user\Projetos\ProjetosC#\ExHeranca\bin\Debug\net5.0\ExHeranca.exe
+C:\Users\user\Projetos\ProjetosC#\ExHeranca\bin\Debug\net5.0\ExHeranca.deps.json
+C:\Users\user\Projetos\ProjetosC#\ExHeranca\bin\Debug\net5.0\ExHeranca.runtimeconfig.json
+C:\Users\user\Projetos\ProjetosC#\ExHeranca\bin\Debug\net5.0\ExHeranca.runtimeconfig.dev.json
+C:\Users\user\Projetos\ProjetosC#\ExHeranca\bin\Debug\net5.0\ExHeranca.dll
+C:\Users\user\Projetos\ProjetosC#\ExHeranca\bin\Debug\net5.0\ref\ExHeranca.dll
+C:\Users\user\Projetos\ProjetosC#\ExHeranca\bin\Debug\net5.0\ExHeranca.pdb
+C:\Users\user\Projetos\ProjetosC#\ExHeranca\obj\Debug\net5.0\ExHeranca.csprojAssemblyReference.cache
+C:\Users\user\Projetos\ProjetosC#\ExHeranca\obj\Debug\net5.0\ExHeranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Projetos\ProjetosC#\ExHeranca\obj\Debug\net5.0\ExHeranca.AssemblyInfoInputs.cache
+C:\Users\user\Projetos\ProjetosC#\ExHeranca\obj\Debug\net5.0\ExHeranca.AssemblyInfo.cs
+C:\Users\user\Projetos\ProjetosC#\ExHeranca\obj\Debug\net5.0\ExHeranca.csproj.CoreCompileInputs.cache
+C:\Users\user\Projetos\ProjetosC#\ExHeranca\obj\Debug\net5.0\ExHeranca.dll
+C:\Users\user\Projetos\ProjetosC#\ExHeranca\obj\Debug\net5.0\ref\ExHeranca.dll
+C:\Users\user\Projetos\ProjetosC#\ExHeranca\obj\Debug\net5.0\ExHeranca.pdb
+C:\Users\user\Projetos\ProjetosC#\ExHeranca\obj\Debug\net5.0\ExHeranca.genruntimeconfig.cache
