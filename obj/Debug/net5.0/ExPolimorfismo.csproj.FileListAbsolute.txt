@@ -1,0 +1,16 @@
+C:\Users\user\Projetos\ProjetosC#\ExPolimorfismo\bin\Debug\net5.0\ExPolimorfismo.exe
+C:\Users\user\Projetos\ProjetosC#\ExPolimorfismo\bin\Debug\net5.0\ExPolimorfismo.deps.json
+C:\Users\user\Projetos\ProjetosC#\ExPolimorfismo\bin\Debug\net5.0\ExPolimorfismo.runtimeconfig.json
+C:\Users\user\Projetos\ProjetosC#\ExPolimorfismo\bin\Debug\net5.0\ExPolimorfismo.runtimeconfig.dev.json
+C:\Users\user\Projetos\ProjetosC#\ExPolimorfismo\bin\Debug\net5.0\ExPolimorfismo.dll
+C:\Users\user\Projetos\ProjetosC#\ExPolimorfismo\bin\Debug\net5.0\ref\ExPolimorfismo.dll
+C:\Users\user\Projetos\ProjetosC#\ExPolimorfismo\bin\Debug\net5.0\ExPolimorfismo.pdb
+C:\Users\user\Projetos\ProjetosC#\ExPolimorfismo\obj\Debug\net5.0\ExPolimorfismo.csprojAssemblyReference.cache
+C:\Users\user\Projetos\ProjetosC#\ExPolimorfismo\obj\Debug\net5.0\ExPolimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Projetos\ProjetosC#\ExPolimorfismo\obj\Debug\net5.0\ExPolimorfismo.AssemblyInfoInputs.cache
+C:\Users\user\Projetos\ProjetosC#\ExPolimorfismo\obj\Debug\net5.0\ExPolimorfismo.AssemblyInfo.cs
+C:\Users\user\Projetos\ProjetosC#\ExPolimorfismo\obj\Debug\net5.0\ExPolimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\user\Projetos\ProjetosC#\ExPolimorfismo\obj\Debug\net5.0\ExPolimorfismo.dll
+C:\Users\user\Projetos\ProjetosC#\ExPolimorfismo\obj\Debug\net5.0\ref\ExPolimorfismo.dll
+C:\Users\user\Projetos\ProjetosC#\ExPolimorfismo\obj\Debug\net5.0\ExPolimorfismo.pdb
+C:\Users\user\Projetos\ProjetosC#\ExPolimorfismo\obj\Debug\net5.0\ExPolimorfismo.genruntimeconfig.cache
